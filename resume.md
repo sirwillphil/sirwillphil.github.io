@@ -1,10 +1,10 @@
-# **All About Me!**
+# **Resume!**
 ---
 
 ## Hello!
-<span style="font-family:Papyrus; font-size:2em;">My name is Will Senenko and I am a Geography with Data Science student at the University of Washington. Outside of school, I enjoy rowing, biking, and really anything outdoors.</span> 
+<span style="font-family:Papyrus; font-size:2em;">My name is Will Senenko and I am a Geography with Data Science student at the University of Washington. </span> 
 
-![Image of me Rowing](Images/IMG_1430.jpeg "Rowing")
+![Image of me](Images/portrait.jpeg "Headshot")
 Here is a photo of me rowing, I used to row for the Uiversity until I was injured.
 
 ## Here are links to some of my favorite apps I use daily
