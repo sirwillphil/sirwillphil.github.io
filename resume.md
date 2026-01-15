@@ -9,7 +9,7 @@ data analysis, programming with Python and SQL, and developing interactive web G
 integrate real-time data into spatial projects that produce high quality geospatial analysis. Demonstrated leadership
 through coaching and data driven program design, combining technical expertise with effective communication.
 
-> ["LinkedIn"](https://www.linkedin.com/in/will-senenko-00ab63208)
+> [LinkedIn](https://www.linkedin.com/in/will-senenko-00ab63208)
 
 ## Education
 - University of Washington- Geography with Data Science
