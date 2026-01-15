@@ -4,14 +4,14 @@
 
 ![Image of me](Images/portrait.jpeg "Headshot")
 
-> "University of Washington student with strong academic foundation in Geography and Data Science. Skilled in geospatial
+> University of Washington student with strong academic foundation in Geography and Data Science. Skilled in geospatial
 data analysis, programming with Python and SQL, and developing interactive web GIS applications. Proven ability to
 integrate real-time data into spatial projects that produce high quality geospatial analysis. Demonstrated leadership
-through coaching and data driven program design, combining technical expertise with effective communication."
+through coaching and data driven program design, combining technical expertise with effective communication.
 
 ## Education
-- University of Washington
-- Bellevue College
+- University of Washington- Geography with Data Science
+- Bellevue College- Arts & Sciences DTA
 
 ## Projects
 * Seattle Ferry Traffic Animation Map 
